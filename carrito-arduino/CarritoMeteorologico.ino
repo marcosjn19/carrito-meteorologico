@@ -29,7 +29,7 @@ EthernetServer server(8080);
 char host[] = "mysql-variety-tests-marcosjn.g.aivencloud.com";
 int port = 11008;
 char user[] = "avnadmin";
-char password[] = "AVNS_LwGXg7DAUwxKDI4aeHI";
+char password[] = "HERE GOES THE AIVEN PASSWORD";
 char database[] = "programables";
 EthernetClient cliente;
 MySQL_Connection conn((Client *)&cliente);
